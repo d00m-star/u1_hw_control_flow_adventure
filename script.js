@@ -1,5 +1,5 @@
 //referenced Michael's adventure game code, a little bit of google, my memory
-alert('Welcome to the Dunngeon!')
+alert("Forrest of Dahk'ness")
 
 let playerName = prompt('What is your name, warrior?')
 
